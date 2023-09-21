@@ -1,0 +1,10 @@
+1. 38:7a:0e:a9:39:f4
+2. c4:41:1e:c9:07:1e, No. My (Belkin) router.
+3. 0x0800 IPv4
+4. 54 bytes
+
+5. c4:41:1e:c9:07:1e, No, this is my router.
+6. 38:7a:0e:a9:39:f4, yes
+7. 0x0800 , this corresponds to the Ethernet IPv4
+8. The O is the 13th Byte
+9. 2 reassembled segments.
